@@ -1,6 +1,6 @@
 <h2>Hello!</h2>
 <p>
-I'm Chetan, a programmer driven by the love for creative exploration. I’m all about using tech to tackle tricky problems—whether it’s crafting the next big software or playing with algorithms.
+I'm Chetan, a programmer driven by the love for creative exploration. I’m all about using tech to tackle tricky problems—whether it’s playing with algorithms or crafting the next big software.
 </p>
 
 <h2>Skills</h2>
