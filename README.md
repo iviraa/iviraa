@@ -1,6 +1,6 @@
-<h2>Hello!</h2>
+<h2>I just really like to code.</h2>
 <p>
-I'm Chetan, a programmer driven by the love for creative exploration. I’m all about using tech to tackle tricky problems—whether it’s playing with algorithms or crafting the next big software.
+I'm serious.
 </p>
 
 <h2>Skills</h2>
