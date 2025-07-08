@@ -1,6 +1,6 @@
-<h2>I just really like to code.</h2>
+
 <p>
-I'm serious.
+I like to code.
 </p>
 
 <h2>Skills</h2>
